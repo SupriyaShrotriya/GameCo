@@ -1,2 +1,19 @@
 # GameCo
 This project was part of CareerFoundry's Data Analytics course in which I analyzed GameCo's new games in Excel.
+
+## Objective
+GameCo wants to use data to inform the development of new games. As such, CameCo asked me to perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market. GameCo executives are open to hearing any insights I can pull from the data but are specifically interested in these questions: 
+
+● Are certain types of games more popular than others?  
+
+● What other publishers will likely be the main competitors in certain markets?  
+
+● Have any games decreased or increased in popularity over time?  
+
+● How have their sales figures varied between geographic regions over time?  
+
+## Data
+The data set can be found here: [vgsales.xlsx](https://github.com/SupriyaShrotriya/GameCo/blob/main/vgsales.xlsx)
+
+## PowerPoint Report
+The PowerPoint can be accessed [here](https://github.com/SupriyaShrotriya/GameCo/blob/main/Final%20Project%20Presentation.pptx)
